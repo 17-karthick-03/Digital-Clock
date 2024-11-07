@@ -1,7 +1,3 @@
-Here’s an updated description for your DIY digital clock project, now including the WS2812B RGB LED strip and the DS1307 RTC module:
-
----
-
 **DIGITAL_CLOCK_USING_RASPBERRY_PI_PICO**
 
 The purpose of this project is to create a digital clock using a Raspberry Pi Pico, a WS2812B RGB LED strip, and a DS1307 RTC module for accurate timekeeping and vibrant display.
